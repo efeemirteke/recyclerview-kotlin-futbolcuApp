@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="futbolcuIsim">
+        <item>1 - Fernando Muslera</item>
+        <item>2- Léo Dubois</item>
+        <item>25 - Victor Enok Nelsson</item>
+        <item>42 - Abdülkerim Bardakcı</item>
+        <item>93 - Sacha Boey</item>
+        <item>5 - Lucas Torreira</item>
+        <item>27 - Sergio Oliveira</item>
+        <item>7 - Kerem Aktürkoğlu</item>
+        <item>10 - Dries Mertens</item>
+        <item>26 - Milot Rashica</item>
+        <item>18 - Bafetimbi Gomis</item>
+    </string-array>
+    <string-array name="mevki">
+        <item>Kaleci</item>
+        <item>Defans</item>
+        <item>Defans</item>
+        <item>Defans</item>
+        <item>Defans</item>
+        <item>Orta Saha</item>
+        <item>Orta Saha</item>
+        <item>Forvet</item>
+        <item>Forvet</item>
+        <item>Forvet</item>
+        <item>Forvet</item>
+    </string-array>
+</resources>
